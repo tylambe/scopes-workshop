@@ -2,7 +2,7 @@
 
 You're here to solidify your understanding of Functions & Scopes in JavaScript.
 
-*IMPORTANT*: Completion of this workshop is no guarantee of admission into the MakerSquare immersive program, nor does it have any influence in the admissions process.
+*IMPORTANT*: Completion of this workshop is no guarantee of admission into the Hack Reactor immersive program, nor does it have any influence in the admissions process.
 
 ## Prerequisites
 
