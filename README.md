@@ -58,4 +58,4 @@ A test block starts with an `it` function. The `it` function takes two arguments
       });
 
 ### Don't forget..
-To read all code to try to understand how the whole testing process works. Welcome to programming :)
+You should throroughly read all of code in front of you and aim to understand line-by-line what is happening.
