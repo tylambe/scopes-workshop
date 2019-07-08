@@ -14,13 +14,13 @@ No textbook is required for this course. All materials are included in this GitH
 
 ## Technical requirements
 
-Laptop, Google Chrome browser and a text editor. We recommend Sublime Text 3 for this workshop becuase it's fast and light-weight.
+Laptop, Google Chrome browser and a text editor. If you do not have a text editor, we recommend Sublime Text, Atom or Visual Studio Code.
 
 # How to use this repository
 
-#####It is your mission to go through the function.js file and change all the `'???'` in such a way that all the tests pass true.
+#### It is your mission to go through the function.js file and change all the `'???'` in such a way that all the tests pass true.
 
-###Let's get started...
+### Let's get started...
 
 Run the specrunner.html file in a browser. This document shows one passed test and a series of failing tests.
 
@@ -28,7 +28,7 @@ The **functions.js** folder holds all the failing tests that are being displayed
 
 A test block starts with an `it` function. The `it` function takes two arguments. The first one is a statement describing the rule addressed by the test. The second is a function that will either evaluate to true or false using the `expect` function. The expect statement (`expect(ACTUAL === 'inner').to.be.true;`) will evaluate if the statement between the parens `ACTUAL === 'inner'` is true. You can almost read it like plain English. The expect statement below "expects that the variable ACTUAL equals the value 'inner' to be true".
 
-####Failing Test Example
+#### Failing Test Example
 
       it('a function has access to its own local scope variables',
 
@@ -42,7 +42,7 @@ A test block starts with an `it` function. The `it` function takes two arguments
         //change '???' to what ACTUAL evaluates to.
       });
 
-####Passing Test Example
+#### Passing Test Example
 
       it('a function has access to its own local scope variables',
 
