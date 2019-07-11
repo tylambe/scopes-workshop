@@ -10,7 +10,7 @@ It is recommended that students understand JavaScript variables, if/else stateme
 
 ## Textbook
 
-No textbook is required for this course. All materials are included in this GitHub repo.
+No textbook is required for this workshop. All materials are included in this GitHub repo.
 
 ## Technical requirements
 
