@@ -1,4 +1,4 @@
-# Functions & Scopes Workshop
+# Hack Reactor: Functions & Scopes Workshop
 
 You're here to solidify your understanding of Functions & Scopes in JavaScript.
 
